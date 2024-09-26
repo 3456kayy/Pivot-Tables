@@ -9,7 +9,7 @@ This project demonstrates the creation of a pivot table to analyze monthly expen
 
 - <b>Microsoft Excel</b>
 
-<h2>Program walk-through:</h2>
+<h2>Project Attached Below:</h2>
 
 <p align="center">
 Launch the utility: <br/>
